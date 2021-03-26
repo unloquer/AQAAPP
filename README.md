@@ -16,6 +16,11 @@ is better if you see [the commit](https://github.com/unloquer/AQA/commit/4bc40ce
 
 see more [here](https://gallery.appinventor.mit.edu/?galleryid=bdffdd3d-3b5b-49ba-bf7e-71ba9af0570e) 
 
+### i want to contribute
+Thanks
+you can export unloquer_AQA.aia in [mit app inventor](http://appinventor.mit.edu/)
+we wait you contribution
+
 ###  common problems
 Problem :never upload fireware and dont show error log
 Solution :disconect hc-06 when you upload the fireware
